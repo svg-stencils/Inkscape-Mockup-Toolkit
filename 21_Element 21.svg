@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="227.84"
+   height="133.92"
+   id="svg2"
+   version="1.1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="gradient_blue">
+      <stop
+         style="stop-color:#004ac0;stop-opacity:1"
+         offset="0"
+         id="stop16346" />
+      <stop
+         style="stop-color:#3771c8;stop-opacity:1"
+         offset="1"
+         id="stop16348" />
+    </linearGradient>
+    <linearGradient
+       id="gradient_buttonlike-1">
+      <stop
+         style="stop-color:#c8c8c8;stop-opacity:1;"
+         offset="0"
+         id="stop12131-3" />
+      <stop
+         style="stop-color:#dcdcdc;stop-opacity:1;"
+         offset="1"
+         id="stop12133-3" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#gradient_buttonlike-1"
+       id="linearGradient14761"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.672269,0,0,1,-178.73954,215)"
+       x1="375"
+       y1="474.36218"
+       x2="375"
+       y2="496.36218" />
+    <filter
+       id="filter16340"
+       x="-0.069600001"
+       width="1.1392"
+       y="-0.15466668"
+       height="1.3093333"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="5.8"
+         id="feGaussianBlur16342" />
+    </filter>
+    <linearGradient
+       xlink:href="#gradient_blue"
+       id="linearGradient16350"
+       x1="250"
+       y1="822.36218"
+       x2="250"
+       y2="802.36218"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer24"
+     style="display:inline"
+     transform="translate(-226.08,-335)">
+    <g
+       id="dropdown_pressed"
+       transform="translate(-100,-352.36218)"
+       style="display:inline">
+      <rect
+         ry="2"
+         rx="2"
+         y="687.86218"
+         x="340.49997"
+         height="23.999998"
+         width="199.00003"
+         id="rect14426"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient14761);fill-opacity:1;fill-rule:nonzero;stroke:#a0a0a0;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 526.5,702.86218 3,3 3,-3"
+         id="path14454" />
+      <path
+         id="path14428"
+         d="m 526.5,701.86218 3,3 3,-3"
+         style="display:inline;fill:none;stroke:#404040;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="path14456"
+         d="m 526.5,698.86218 3,-3 3,3"
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="display:inline;fill:none;stroke:#404040;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 526.5,697.86218 3,-3 3,3"
+         id="path14430" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="346"
+         y="704.36218"
+         id="text14432"><tspan
+           id="tspan14434"
+           x="346"
+           y="704.36218"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start">Dropdown Selector (pressed)</tspan></text>
+    </g>
+    <g
+       id="menu"
+       transform="translate(0,-417.36218)"
+       style="display:inline">
+      <rect
+         y="782.36218"
+         x="240"
+         height="90"
+         width="200"
+         id="rect14530"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.6;marker:none;filter:url(#filter16340);enable-background:accumulate" />
+      <rect
+         ry="3"
+         rx="3.0000002"
+         y="777.36218"
+         x="240"
+         height="90"
+         width="200"
+         id="rect14458"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f5f5f5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.6;marker:none;enable-background:accumulate" />
+      <rect
+         y="802.36218"
+         x="240"
+         height="19.999998"
+         width="200"
+         id="rect14542"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient16350);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.6;marker:none;enable-background:accumulate" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="250"
+         y="796.36218"
+         id="text14548"><tspan
+           id="tspan14550"
+           x="250"
+           y="796.36218"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">Popup Menu Option</tspan></text>
+      <text
+         id="text14560"
+         y="816.36218"
+         x="250"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1"
+           y="816.36218"
+           x="250"
+           id="tspan14562">Selected option</tspan></text>
+      <text
+         id="text14620"
+         y="836.36218"
+         x="250"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+           y="836.36218"
+           x="250"
+           id="tspan14622">Another Option</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="250"
+         y="856.36218"
+         id="text14624"><tspan
+           id="tspan14626"
+           x="250"
+           y="856.36218"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">Last Option</tspan></text>
+    </g>
+  </g>
+</svg>
