@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="420"
+   height="60"
+   id="svg2"
+   version="1.1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="gradient_blue">
+      <stop
+         style="stop-color:#004ac0;stop-opacity:1"
+         offset="0"
+         id="stop16346" />
+      <stop
+         style="stop-color:#3771c8;stop-opacity:1"
+         offset="1"
+         id="stop16348" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#gradient_blue"
+       id="linearGradient16358"
+       x1="10"
+       y1="0"
+       x2="10"
+       y2="-60"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.91304348,0,0,1,10,10)" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer27"
+     style="display:inline"
+     transform="translate(-20,-85)">
+    <rect
+       y="-50"
+       x="10"
+       height="60"
+       width="420"
+       id="rect14939"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient16358);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.6;marker:none;enable-background:accumulate"
+       rx="5"
+       ry="5"
+       transform="translate(10,135)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Arial Bold';text-align:start;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="25"
+       y="-22"
+       id="text14931"
+       transform="translate(10,135)"><tspan
+         id="tspan14933"
+         x="25"
+         y="-22"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffffff">Inkscape Mockup Toolkit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="25"
+       y="-5"
+       id="text14935"
+       transform="translate(10,135)"><tspan
+         id="tspan14937"
+         x="25"
+         y="-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;line-height:1;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff">SVG UI Elements for Web Design</tspan></text>
+  </g>
+</svg>

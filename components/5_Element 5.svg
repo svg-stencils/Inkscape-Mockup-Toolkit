@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="13.999984"
+   height="13.999984"
+   id="svg2"
+   version="1.1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="gradient_buttonlike">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop12131" />
+      <stop
+         style="stop-color:#f5f5f5;stop-opacity:1;"
+         offset="0.01"
+         id="stop12887" />
+      <stop
+         style="stop-color:#e6e6e6;stop-opacity:1;"
+         offset="1"
+         id="stop12133" />
+    </linearGradient>
+    <linearGradient
+       id="gradient_3Deffect">
+      <stop
+         style="stop-color:#c0c0c0;stop-opacity:0.99607843;"
+         offset="0"
+         id="stop12119" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop12121" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#gradient_buttonlike"
+       id="linearGradient14297"
+       gradientUnits="userSpaceOnUse"
+       x1="158.03836"
+       y1="248.10315"
+       x2="158.03836"
+       y2="229.01125" />
+    <linearGradient
+       xlink:href="#gradient_3Deffect"
+       id="linearGradient14299"
+       gradientUnits="userSpaceOnUse"
+       x1="171.29663"
+       y1="254.7854"
+       x2="171.29663"
+       y2="229.96588" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer8"
+     style="display:inline"
+     transform="translate(-51.00001,-161)">
+    <g
+       transform="translate(30,-382.36218)"
+       id="radio_selected_disabled"
+       style="display:inline;opacity:0.5">
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient14297);fill-opacity:1;fill-rule:nonzero;stroke:#a0a0a0;stroke-width:2.12132;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="path14291"
+         transform="matrix(0.471404,0,0,-0.471404,-49.499913,663.319)"
+         cx="164.40233"
+         cy="239.61787"
+         r="13.788582" />
+      <circle
+         transform="matrix(0.3988802,0,0,0.3988802,-37.576831,454.78335)"
+         id="path14293"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:none;stroke:url(#linearGradient14299);stroke-width:2.50702;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         cx="164.40233"
+         cy="239.61787"
+         r="13.788582" />
+      <circle
+         transform="matrix(1.2,0,0,1.2,-162.2,270.16218)"
+         id="path14295"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.98;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+         cx="158.5"
+         cy="233.5"
+         r="2.5" />
+    </g>
+  </g>
+</svg>
