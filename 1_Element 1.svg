@@ -159,16 +159,16 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      id="layer4"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(0,-1.8261719e-4)">
     <g
        id="browser_chrome"
-       transform="translate(-480,-472.36218)"
+       transform="translate(-480,-472.362)"
        style="display:inline">
       <rect
          ry="5"
@@ -224,12 +224,12 @@
         <circle
            style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient17269);fill-opacity:1;fill-rule:nonzero;stroke:#a0a0a0;stroke-width:1.9698;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
            id="path17163"
-           transform="matrix(0.50766607,0,0,-0.50766637,-54.96148,672.50812)"
+           transform="matrix(0.507666,0,0,-0.507666,-54.9615,672.508)"
            cx="164.40233"
            cy="239.61787"
            r="13.788582" />
         <circle
-           transform="matrix(0.43514227,0,0,0.43514266,-43.038397,446.59422)"
+           transform="matrix(0.435142,0,0,0.435143,-43.0384,446.594)"
            id="path17165"
            style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:none;stroke:url(#linearGradient17271);stroke-width:2.2981;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
            cx="164.40233"
@@ -240,7 +240,7 @@
          transform="translate(484,-66)"
          id="g17171">
         <circle
-           transform="matrix(0.50766607,0,0,-0.50766637,-54.96148,672.50812)"
+           transform="matrix(0.507666,0,0,-0.507666,-54.9615,672.508)"
            id="path17173"
            style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient17273);fill-opacity:1;fill-rule:nonzero;stroke:#a0a0a0;stroke-width:1.9698;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
            cx="164.40233"
@@ -249,7 +249,7 @@
         <circle
            style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:none;stroke:url(#linearGradient17275);stroke-width:2.2981;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
            id="path17175"
-           transform="matrix(0.43514227,0,0,0.43514266,-43.038397,446.59422)"
+           transform="matrix(0.435142,0,0,0.435143,-43.0384,446.594)"
            cx="164.40233"
            cy="239.61787"
            r="13.788582" />
@@ -260,12 +260,12 @@
         <circle
            style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient17277);fill-opacity:1;fill-rule:nonzero;stroke:#a0a0a0;stroke-width:1.9698;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
            id="path17183"
-           transform="matrix(0.50766607,0,0,-0.50766637,-54.96148,672.50812)"
+           transform="matrix(0.507666,0,0,-0.507666,-54.9615,672.508)"
            cx="164.40233"
            cy="239.61787"
            r="13.788582" />
         <circle
-           transform="matrix(0.43514227,0,0,0.43514266,-43.038397,446.59422)"
+           transform="matrix(0.435142,0,0,0.435143,-43.0384,446.594)"
            id="path17185"
            style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:none;stroke:url(#linearGradient17279);stroke-width:2.2981;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
            cx="164.40233"
@@ -310,13 +310,13 @@
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ffffff;stroke-width:2.19444;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
          id="path17225"
          d="m 568.55384,123.25866 a 4.9375,4.9375 0 0 1 0,6.98268 4.9375,4.9375 0 0 1 -6.98268,0 4.9375,4.9375 0 0 1 0,-6.98268"
-         transform="matrix(0.91139247,0,0,0.91139247,49.506294,405.34318)" />
+         transform="matrix(0.911392,0,0,0.911392,49.5063,405.343)" />
       <path
          style="fill:#ffffff;fill-opacity:1;stroke:none"
          d="m 565,521.36218 6,-6 h -6 z"
          id="path17227" />
       <path
-         transform="matrix(0.91139247,0,0,0.91139247,49.506294,404.34318)"
+         transform="matrix(0.911392,0,0,0.911392,49.5063,404.343)"
          d="m 568.55384,123.25866 a 4.9375,4.9375 0 0 1 0,6.98268 4.9375,4.9375 0 0 1 -6.98268,0 4.9375,4.9375 0 0 1 0,-6.98268"
          id="path17221"
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#404040;stroke-width:2.19444;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" />

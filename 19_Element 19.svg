@@ -47,17 +47,16 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      id="layer22"
      style="display:inline"
-     transform="translate(-20,-440)">
+     transform="translate(-20,-440.00018)">
     <g
        id="dropdown_disabled"
-       transform="translate(-360,-282.36218)"
+       transform="translate(-360,-282.362)"
        style="display:inline;opacity:0.5">
       <rect
          ry="2"

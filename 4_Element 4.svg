@@ -65,27 +65,26 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      id="layer7"
      style="display:inline"
-     transform="translate(-21.00001,-191)">
+     transform="translate(-21.000023,-191.00018)">
     <g
        id="radio_unselected"
-       transform="translate(0,-352.36218)"
+       transform="translate(0,-352.362)"
        style="display:inline">
       <circle
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient12351);fill-opacity:1;fill-rule:nonzero;stroke:#a0a0a0;stroke-width:2.12132;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
          id="path12137"
-         transform="matrix(0.471404,0,0,-0.471404,-49.499913,663.319)"
+         transform="matrix(0.471404,0,0,-0.471404,-49.4999,663.319)"
          cx="164.40233"
          cy="239.61787"
          r="13.788582" />
       <circle
-         transform="matrix(0.3988802,0,0,0.3988802,-37.576831,454.78335)"
+         transform="matrix(0.39888,0,0,0.39888,-37.5768,454.783)"
          id="path12139"
          style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:none;stroke:url(#linearGradient12353);stroke-width:2.50702;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
          cx="164.40233"
