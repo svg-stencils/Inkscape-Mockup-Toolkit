@@ -46,17 +46,16 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      id="layer18"
      style="display:inline"
-     transform="translate(-319.99997,-189.99997)">
+     transform="translate(-319.99997,-190.00015)">
     <g
        id="button_disabled"
-       transform="translate(10,-282.36218)"
+       transform="translate(10,-282.362)"
        style="display:inline;opacity:0.5">
       <rect
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient13131);fill-opacity:1;fill-rule:nonzero;stroke:#a0a0a0;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"

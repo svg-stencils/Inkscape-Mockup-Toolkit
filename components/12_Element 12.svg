@@ -33,17 +33,16 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      id="layer15"
      style="display:inline"
-     transform="translate(-170,-160)">
+     transform="translate(-170.00003,-159.99959)">
     <g
        id="cursor_black"
-       transform="translate(25.93507,-278.75659)"
+       transform="translate(25.9351,-278.757)"
        style="display:inline">
       <path
          id="path14033"

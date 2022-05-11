@@ -47,17 +47,16 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      id="layer12"
      style="display:inline"
-     transform="translate(-111,-160.99988)">
+     transform="translate(-111,-161.00006)">
     <g
        id="checkbox_selected_disabled"
-       transform="translate(30,-352.36218)"
+       transform="translate(30,-352.362)"
        style="display:inline;opacity:0.5">
       <rect
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient24261);fill-opacity:1;fill-rule:nonzero;stroke:#a0a0a0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
@@ -71,7 +70,7 @@
       <g
          style="display:inline"
          id="g24255"
-         transform="matrix(0.49999862,0,0,0.50000258,-20.958036,427.36168)">
+         transform="matrix(0.499999,0,0,0.500003,-20.958,427.362)">
         <path
            id="path24257"
            d="M 209.91665,187.11114 215.91667,195 225.91669,179.00008 v -2.99998 l -10.00002,12.11103 -6.00002,-4.33329 z"
