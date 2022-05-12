@@ -3,6 +3,8 @@ Inkscape Mockup Toolkit
 
 *SVG UI Elements for Web Design in Inkscape*
 
+🌻 Featured on https://svg-stencils.github.io 🌻
+
 This is a collection of UI elements in SVG format, for use in the creation of 
 design mockups. It is tailored for use with [Inkscape][1], but may be useful in
 other software that can read SVG files.
